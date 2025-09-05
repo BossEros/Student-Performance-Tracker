@@ -15,3 +15,7 @@ dotnet user-secrets set "ConnectionStrings:DefaultConnection" "<Your-Supabase-Co
 ```
 
 After running this command with the correct connection string, you will be able to run the project successfully.
+
+
+https://github.com/user-attachments/assets/becb40dd-b081-4144-87b8-d96d2d3c1239
+
